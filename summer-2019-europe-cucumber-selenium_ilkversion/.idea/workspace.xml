@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="079772d7-43bc-451c-b40d-6e0aa76be6a6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WRUr104j4oPNUYcVAswVEvOcEe" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/com/vytrack/utilities" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Me\IdeaProjects\summer-2019-europe-cucumber-selenium\src\test\java\com\vytrack\utilities" />
+      <recent name="C:\Users\Me\IdeaProjects\summer-2019-europe-cucumber-selenium\src\test\java\com\vytrack\pages" />
+      <recent name="C:\Users\Me\IdeaProjects\summer-2019-europe-cucumber-selenium\src\test\resources\features" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CukesRunner">
+    <configuration name="CukesRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="summer-2019-europe-cucumber-selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vytrack.runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.vytrack.runners" />
+      <option name="MAIN_CLASS_NAME" value="com.vytrack.runners.CukesRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FailedTestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="summer-2019-europe-cucumber-selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vytrack.runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.vytrack.runners" />
+      <option name="MAIN_CLASS_NAME" value="com.vytrack.runners.FailedTestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CukesRunner" />
+        <item itemvalue="JUnit.FailedTestRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="079772d7-43bc-451c-b40d-6e0aa76be6a6" name="Default Changelist" comment="" />
+      <created>1579112095873</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579112095873</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="100" width="867" height="360" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1579633232105">
+      <screen x="0" y="0" width="1067" height="560" />
+    </state>
+    <state x="100" y="100" width="867" height="360" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1067.560@0.0.1067.560" timestamp="1579633232105" />
+    <state x="266" y="84" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579461002255">
+      <screen x="0" y="0" width="1067" height="560" />
+    </state>
+    <state x="266" y="84" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1067.560@0.0.1067.560" timestamp="1579461002255" />
+    <state x="264" y="28" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579454752318">
+      <screen x="0" y="0" width="1067" height="560" />
+    </state>
+    <state x="264" y="28" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1067.560@0.0.1067.560" timestamp="1579454752318" />
+    <state width="1009" height="111" key="GridCell.Tab.0.bottom" timestamp="1580057416376">
+      <screen x="0" y="0" width="1067" height="560" />
+    </state>
+    <state width="1009" height="111" key="GridCell.Tab.0.bottom/0.0.1067.560@0.0.1067.560" timestamp="1580057416376" />
+    <state width="1009" height="111" key="GridCell.Tab.0.center" timestamp="1580057416376">
+      <screen x="0" y="0" width="1067" height="560" />
+    </state>
+    <state width="1009" height="111" key="GridCell.Tab.0.center/0.0.1067.560@0.0.1067.560" timestamp="1580057416376" />
+    <state width="1009" height="111" key="GridCell.Tab.0.left" timestamp="1580057416376">
+      <screen x="0" y="0" width="1067" height="560" />
+    </state>
+    <state width="1009" height="111" key="GridCell.Tab.0.left/0.0.1067.560@0.0.1067.560" timestamp="1580057416376" />
+    <state width="1009" height="111" key="GridCell.Tab.0.right" timestamp="1580057416376">
+      <screen x="0" y="0" width="1067" height="560" />
+    </state>
+    <state width="1009" height="111" key="GridCell.Tab.0.right/0.0.1067.560@0.0.1067.560" timestamp="1580057416376" />
+    <state width="1009" height="105" key="GridCell.Tab.1.bottom" timestamp="1579971759841">
+      <screen x="0" y="0" width="1067" height="560" />
+    </state>
+    <state width="1009" height="105" key="GridCell.Tab.1.bottom/0.0.1067.560@0.0.1067.560" timestamp="1579971759841" />
+    <state width="1009" height="105" key="GridCell.Tab.1.center" timestamp="1579971759841">
+      <screen x="0" y="0" width="1067" height="560" />
+    </state>
+    <state width="1009" height="105" key="GridCell.Tab.1.center/0.0.1067.560@0.0.1067.560" timestamp="1579971759841" />
+    <state width="1009" height="105" key="GridCell.Tab.1.left" timestamp="1579971759841">
+      <screen x="0" y="0" width="1067" height="560" />
+    </state>
+    <state width="1009" height="105" key="GridCell.Tab.1.left/0.0.1067.560@0.0.1067.560" timestamp="1579971759841" />
+    <state width="1009" height="105" key="GridCell.Tab.1.right" timestamp="1579971759841">
+      <screen x="0" y="0" width="1067" height="560" />
+    </state>
+    <state width="1009" height="105" key="GridCell.Tab.1.right/0.0.1067.560@0.0.1067.560" timestamp="1579971759841" />
+    <state x="35" y="0" key="SettingsEditor" timestamp="1579777215189">
+      <screen x="0" y="0" width="1067" height="560" />
+    </state>
+    <state x="35" y="0" key="SettingsEditor/0.0.1067.560@0.0.1067.560" timestamp="1579777215189" />
+    <state x="0" y="0" key="new project wizard" timestamp="1579705311758">
+      <screen x="0" y="0" width="1067" height="560" />
+    </state>
+    <state x="0" y="0" key="new project wizard/0.0.1067.560@0.0.1067.560" timestamp="1579705311758" />
+  </component>
+</project>

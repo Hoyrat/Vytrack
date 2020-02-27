@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4d1da4e3-1023-480c-88ab-1c99b4334e79" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="final" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Me\IdeaProjects\summer-2019-europe-cucumber-selenium1\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Wck2tmTohuwq00QZPQeBgviBEZ" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="CukesRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="summer-2019-europe-cucumber-selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vytrack.runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.vytrack.runners" />
+      <option name="MAIN_CLASS_NAME" value="com.vytrack.runners.CukesRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CukesRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d1da4e3-1023-480c-88ab-1c99b4334e79" name="Default Changelist" comment="" />
+      <created>1579456066713</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579456066713</updated>
+    </task>
+    <task id="LOCAL-00001" summary="new EU_Europe2019-selenium-cucumber">
+      <created>1580058339543</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580058339543</updated>
+    </task>
+    <task id="LOCAL-00002" summary="new driver for different browser tu use">
+      <created>1580059921390</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580059921390</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new EU_Europe2019-selenium-cucumber" />
+    <MESSAGE value="new driver for different browser tu use" />
+    <option name="LAST_COMMIT_MESSAGE" value="new driver for different browser tu use" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="38" y="0" key="CommitChangelistDialog2" timestamp="1580059919603">
+      <screen x="0" y="0" width="1067" height="560" />
+    </state>
+    <state x="38" y="0" key="CommitChangelistDialog2/0.0.1067.560@0.0.1067.560" timestamp="1580059919603" />
+    <state x="314" y="23" key="FileChooserDialogImpl" timestamp="1580060739988">
+      <screen x="0" y="0" width="1067" height="560" />
+    </state>
+    <state x="314" y="23" key="FileChooserDialogImpl/0.0.1067.560@0.0.1067.560" timestamp="1580060739988" />
+    <state width="1009" height="113" key="GridCell.Tab.0.bottom" timestamp="1580062007010">
+      <screen x="0" y="0" width="1067" height="560" />
+    </state>
+    <state width="1009" height="113" key="GridCell.Tab.0.bottom/0.0.1067.560@0.0.1067.560" timestamp="1580062007010" />
+    <state width="1009" height="113" key="GridCell.Tab.0.center" timestamp="1580062007010">
+      <screen x="0" y="0" width="1067" height="560" />
+    </state>
+    <state width="1009" height="113" key="GridCell.Tab.0.center/0.0.1067.560@0.0.1067.560" timestamp="1580062007010" />
+    <state width="1009" height="113" key="GridCell.Tab.0.left" timestamp="1580062007010">
+      <screen x="0" y="0" width="1067" height="560" />
+    </state>
+    <state width="1009" height="113" key="GridCell.Tab.0.left/0.0.1067.560@0.0.1067.560" timestamp="1580062007010" />
+    <state width="1009" height="113" key="GridCell.Tab.0.right" timestamp="1580062007010">
+      <screen x="0" y="0" width="1067" height="560" />
+    </state>
+    <state width="1009" height="113" key="GridCell.Tab.0.right/0.0.1067.560@0.0.1067.560" timestamp="1580062007010" />
+    <state x="100" y="44" key="MergeDialog" timestamp="1580061931348">
+      <screen x="0" y="0" width="1067" height="560" />
+    </state>
+    <state x="100" y="44" key="MergeDialog/0.0.1067.560@0.0.1067.560" timestamp="1580061931348" />
+    <state x="247" y="0" key="MultipleFileMergeDialog" timestamp="1580061931356">
+      <screen x="0" y="0" width="1067" height="560" />
+    </state>
+    <state x="247" y="0" key="MultipleFileMergeDialog/0.0.1067.560@0.0.1067.560" timestamp="1580061931356" />
+    <state x="126" y="3" key="Vcs.Push.Dialog.v2" timestamp="1580059932579">
+      <screen x="0" y="0" width="1067" height="560" />
+    </state>
+    <state x="126" y="3" key="Vcs.Push.Dialog.v2/0.0.1067.560@0.0.1067.560" timestamp="1580059932579" />
+    <state x="343" y="198" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580061876981">
+      <screen x="0" y="0" width="1067" height="560" />
+    </state>
+    <state x="343" y="198" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1067.560@0.0.1067.560" timestamp="1580061876981" />
+  </component>
+</project>
